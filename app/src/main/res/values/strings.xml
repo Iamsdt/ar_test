@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AR Test</string>
+
+    <string name="hint_searching">Move your phone slowly to find the floor…</string>
+    <string name="hint_tap">Tap the floor to place %1$s</string>
+    <string name="hint_no_model">Tap “Models” to pick an object</string>
+    <string name="hint_placed">Walk around it. Tap the floor to place another.</string>
+
+    <string name="coach_features">Floor is too plain to track. Aim at a rug, a chair leg, a doorway — anything with pattern.</string>
+    <string name="coach_light">Too dark. Turn a light on.</string>
+    <string name="coach_motion">Slow down — you\'re moving the phone too fast.</string>
+    <string name="coach_camera">Camera unavailable. Another app may be using it.</string>
+    <string name="coach_bad_state">Tracking lost. Close and reopen the app.</string>
+
+    <string name="models">Models</string>
+    <string name="clear">Clear all</string>
+    <string name="sheet_title">Choose an object</string>
+    <string name="no_models">No .glb files in assets/models/</string>
+
+    <string name="perm_title">Camera access needed</string>
+    <string name="perm_body">This app places 3D objects in your room, so it needs the camera to see the floor.</string>
+    <string name="perm_body_settings">Camera permission was denied. Enable it in Settings to use AR.</string>
+    <string name="perm_grant">Grant access</string>
+    <string name="perm_settings">Open Settings</string>
+    <string name="perm_quit">Quit</string>
+</resources>
